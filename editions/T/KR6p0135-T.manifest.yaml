@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR6p0135/T/v1
+canonical_location: https://kanripo.org/bkk/KR6p0135/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 略諸經論念佛法門往生淨土集卷上
+  identifiers:
+    krp: KR6p0135
+    cbeta: T85n2826
+    cbeta_old_id: T85n2826
+    authorityid: CA0004846
+    json_key: T2826
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2826.xml
+    old_id: T85n2826
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6p0135_000-T.yaml, hash: 'sha256:50fa36d9e61771a9fbc6ec05c65afa1c17e56bcbd17c5a0520a579b8264ead20'}
+  - {seq: 1, filename: KR6p0135_001-T.yaml, hash: 'sha256:d2924013c2244fd6fad34988da02f8c604d640d3b1fba10039ec1d6467f9131c'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6p0135_000-T.markers.yaml, hash: 'sha256:32a8ea02a28032ce129cca532ea3003f30b337c201194bb260df4c1d3e6bd327'}
+  - {seq: 1, role: markers, filename: assets/KR6p0135_001-T.markers.yaml, hash: 'sha256:3fafcd8fdcd06638130d69f9796ca6ac7e1bf7c17632be5f95c39c8e3f67e876'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6p0135_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 9276
+  label: '略諸經論念佛法門往生淨
+
+    土集卷上一名慈悲集'
+  type: juan
+  level: 1
+hash: sha256:ee1a1a1d2c9c3d07c04c83ad93c441876bf53a5b2297b608f5a4ce9b1f95a219

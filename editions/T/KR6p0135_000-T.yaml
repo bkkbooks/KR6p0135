@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6p0135/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 略諸經論念佛法門往生淨土集卷上
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2826.xml
+    old_id: T85n2826
+hash: sha256:50fa36d9e61771a9fbc6ec05c65afa1c17e56bcbd17c5a0520a579b8264ead20
