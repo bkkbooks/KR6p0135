@@ -25,9 +25,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6p0135_000.yaml, hash: 'sha256:50fa36d9e61771a9fbc6ec05c65afa1c17e56bcbd17c5a0520a579b8264ead20'}
-  - {seq: 1, filename: KR6p0135_001.yaml, hash: 'sha256:8d0f227db2702200c567f0f269f4df238509220408bac2392b08434dcad721be'}
+  - {seq: 1, filename: KR6p0135_001.yaml, hash: 'sha256:d2924013c2244fd6fad34988da02f8c604d640d3b1fba10039ec1d6467f9131c'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6p0135_001.markers.yaml, hash: 'sha256:9d6ce637fcdff12ebacef32d01ce27704f8639d0edf33df892be955f5580965c'}
+  - {seq: 0, role: markers, filename: assets/KR6p0135_000.markers.yaml, hash: 'sha256:e71da33df91362d4479506e2f48288328a7e3d249e0dd0002f1a2e99f5421f9c'}
+  - {seq: 1, role: markers, filename: assets/KR6p0135_001.markers.yaml, hash: 'sha256:56ca759f64e51ab35efe263d0b4c1c968d39ae6dacf658aa1eb5a343751d3474'}
 table_of_contents:
 - ref:
     seq: 1
@@ -41,7 +42,4 @@ table_of_contents:
     土集卷上一名慈悲集'
   type: juan
   level: 1
-hash: sha256:5b4c39852e493634804a5d3313808bd12eecd64dbd5ff5b3638d4acd400419b5
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:ec63f4dbc432ef7a52c201a0553ea4091d203a9d5f50b3deffa5b6d7450d4e11
