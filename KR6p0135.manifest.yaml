@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6p0135/v1
 canonical_location: https://kanripo.org/bkk/KR6p0135/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 略諸經論念佛法門往生淨土集卷上
   identifiers:
@@ -25,10 +25,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6p0135_000.yaml, hash: 'sha256:50fa36d9e61771a9fbc6ec05c65afa1c17e56bcbd17c5a0520a579b8264ead20'}
-  - {seq: 1, filename: KR6p0135_001.yaml, hash: 'sha256:d2924013c2244fd6fad34988da02f8c604d640d3b1fba10039ec1d6467f9131c'}
+  - {seq: 1, filename: KR6p0135_001.yaml, hash: 'sha256:72c30494cc61412331571ab97a14e37361c3ebd071ad3b866ef7eb753165840a'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6p0135_000.markers.yaml, hash: 'sha256:e71da33df91362d4479506e2f48288328a7e3d249e0dd0002f1a2e99f5421f9c'}
-  - {seq: 1, role: markers, filename: assets/KR6p0135_001.markers.yaml, hash: 'sha256:56ca759f64e51ab35efe263d0b4c1c968d39ae6dacf658aa1eb5a343751d3474'}
+  - {seq: 1, role: markers, filename: assets/KR6p0135_001.markers.yaml, hash: 'sha256:185a97fcea36e8ae00d2efa296985eae39c04fc449e9025e7bcbfa27a4837071'}
 table_of_contents:
 - ref:
     seq: 1
@@ -42,4 +42,7 @@ table_of_contents:
     土集卷上一名慈悲集'
   type: juan
   level: 1
-hash: sha256:ec63f4dbc432ef7a52c201a0553ea4091d203a9d5f50b3deffa5b6d7450d4e11
+hash: sha256:08425fe7b375b767cbb44be171ea98204a2f159f86b96e4d732901b5667c3cfa
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
